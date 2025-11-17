@@ -5,7 +5,7 @@ Prompts Listing
 
 code changes are in app/prompts_redesign
 
-```json
+```text
 Component Hierarchy
 ├── Dialogs
 │ ├── AddPrompt
