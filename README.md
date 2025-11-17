@@ -5,6 +5,7 @@ Prompts Listing
 
 code changes are in app/prompts_redesign
 
+```json
 Component Hierarchy
 ├── Dialogs
 │ ├── AddPrompt
@@ -32,3 +33,4 @@ Component Hierarchy
 ├── styles.ts
 ├── types.ts
 └── usePrompts.ts
+```
